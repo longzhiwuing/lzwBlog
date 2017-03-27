@@ -77,8 +77,9 @@ theme: next
 #   type:
 deploy:
   type: git
-  repository: https://github.com/longzhiwuing/longzhiwuing.github.io.git
-  branch: master
+  repository: 
+    github: git@github.com:longzhiwuing/longzhiwuing.github.io.git,master
+    coding: git@git.coding.net:longzhiwuing/lzwBlog.git,master
 
 
 baidu_analytics: e1ed576ee295146fba4676bfdb83ba0c
