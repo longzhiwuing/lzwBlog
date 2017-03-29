@@ -79,7 +79,7 @@ deploy:
   type: git
   repository: 
     github: git@github.com:longzhiwuing/longzhiwuing.github.io.git,master
-    coding: git@git.coding.net:longzhiwuing/lzwBlog.git,master
+    coding: git@git.coding.net:longzhiwuing/longzhiwuing.git,master
 
 
 baidu_analytics: e1ed576ee295146fba4676bfdb83ba0c
